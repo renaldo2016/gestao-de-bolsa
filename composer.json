@@ -1,0 +1,20 @@
+{
+    "name": "renaldo/gestao-de-bolsa",
+    "description": "\"Sistema responsavel por gerir as Alunos bolsitas internos e externos\"",
+    "require": {
+        "slim/slim": "^3.9",
+        "slim/twig-view": "^2.3",
+        "slim/csrf": "^0.8.2",
+        "illuminate/database": "^5.5",
+        "symfony/var-dumper": "^4.0",
+        "respect/validation": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renaldo Mateus",
+            "email": "renaldomateus77@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
